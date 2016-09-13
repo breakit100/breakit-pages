@@ -1,7 +1,7 @@
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-baseurl = "http://breakit100.github.io/hugo"
+baseurl = "http://breakit100.github.io/"
 languageCode = "en-us"
 title = "Breakit's hugo Site"
 
