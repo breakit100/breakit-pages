@@ -1,0 +1,25 @@
+languageCode = "en-us"
+title = "Breakit's hugo Site"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap-premium"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://breakit.github.io/"
+canonifyurls = true
+
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "breakit"
+    email = "breakit100@gmail.com"
