@@ -3,6 +3,12 @@
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-09-13T22:57:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/2016/09/13/first-breakit/</loc>
+    <lastmod>2016-09-13T22:57:03+09:00</lastmod>
   </url>
   
 </urlset>
