@@ -1,9 +1,15 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
 title = "Breakit's hugo Site"
 
 # Theme to use (located in /themes/THEMENAME/)
 theme = "hugo-bootstrap-premium"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://breakit.github.io/"
+canonifyurls = true
+
 
 
 [permalinks]
